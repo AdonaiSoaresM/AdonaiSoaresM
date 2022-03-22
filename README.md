@@ -1,8 +1,9 @@
 ## Olá, Devs :beginner: 
 ### Bem vindo ao meu perfil GitHub!
 
-Me chamo Adonai, moro em Brasília, tenho 22 anos, sou apaixonado nesse universo da programação e adoro instrumentos musicais. Em meu tempo livre gosto de programar e aprender técnicas e repertórios no Piano/Violão.
-Atualmente estou cursando ADS pela UCB. Estou me profissionalizando pela Udemy para me tornar um Dev. Fullstack em JavaScript.
+:star: Me chamo Adonai, moro em Brasília, tenho 22 anos, sou apaixonado nesse universo da programação e adoro instrumentos musicais.
+:art: Em meu tempo livre gosto de programar e aprender técnicas e repertórios no Piano/Violão.
+:books: Atualmente estou cursando ADS pela UCB. Estou me profissionalizando pela Udemy para me tornar um Dev. Fullstack em JavaScript.
 
 ### Tecnologias e Ferramentas
 
@@ -13,7 +14,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="50" height="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50"/>
 
 ### Contatos:
 
@@ -23,7 +24,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original
 <a href="https://www.linkedin.com/in/adonai-soares" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<br></br>
+
 <div>
 <a href="https://github.com/AdonaiSoaresM">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdonaiSoaresM&layout=compact&langs_count=7&theme=dracula"/>
