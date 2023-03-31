@@ -3,7 +3,7 @@
 
 :star: Me chamo Adonai, moro em Brasília, tenho 23 anos, sou apaixonado nesse universo da programação e adoro instrumentos musicais.<br><br>
 :art: Em meu tempo livre gosto de programar e aprender técnicas e repertórios no Piano/Violão.<br><br>
-:books: Atualmente estou cursando ADS pela UCB. Estou me profissionalizando pela Udemy para me tornar um Dev. Fullstack em JavaScript.<br><br><br>
+:books: Sou formado em Análise de Sistemas pela UCB. Estou me profissionalizando diariamente para me tornar um grande Dev. Fullstack.<br><br><br>
 
 ### Tecnologias e Ferramentas<br>
 
